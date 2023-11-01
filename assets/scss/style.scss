@@ -1,6 +1,6 @@
 :root {
-  --font-family-heading: {{ .Site.Params.fontFamilyHeading | default "'Poppins', sans-serif" }};
-  --font-family-paragraph: {{ .Site.Params.fontFamilyParagraph | default "'Helvetica', sans-serif" }};
+  --font-family-heading: {{ .Site.Params.fontFamilyHeading | default "'joly-display', sans-serif" }};
+  --font-family-paragraph: {{ .Site.Params.fontFamilyParagraph | default "'forma-djr-micro', sans-serif" }};
   --font-family-monospace: {{ .Site.Params.fontFamilyMonospace | default "monospace" }};
   --base-color: {{ .Site.Params.baseColor | default "#ffffff" }};
   --base-offset-color: {{ .Site.Params.baseOffsetColor | default "#eaeaea" }};
