@@ -34,7 +34,7 @@ pygmentsUseClasses = true
   enableGoogleFonts = true 
   googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
   fontFamilyHeading = "ibm-plex-mono"
-  fontFamilyParagraph = "ibm-plex-sans"
+  fontFamilyParagraph = "forma-djr-micro"
   fontFamilyMonospace = "ibm-plex-mono"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark

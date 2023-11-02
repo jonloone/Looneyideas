@@ -9,6 +9,7 @@ tags:
    - AI
    - ChatGPT 
 ---
+### Redefining networked knowledge and search in the Cognitive Computing Era.
 
 I recently read researcher [Simon Wardley's take](https://x.com/swardley/status/1717457831736103159?s=20) on how he used ChatGPT and Perplexity.AI to reflect on and engage topics.
 
