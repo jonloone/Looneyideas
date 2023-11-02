@@ -1,6 +1,6 @@
 ---
-title: We are the music makers, we are the dreamers of the dream.
+title: Hello, I'm Jonathan Looney
 description: 
 ---
 
-I'm Jonathan Looney, a life long technologist and product manager of 13 years who enjoys solving creative problems through technology. These are the rants and ravings of the tools we create, and our relationship with technology. 
+Life long technologist and senior product leader who enjoys solving creative problems through technology. These are the rants and ravings about our relationship with technology, the new tools it creates, the problems that are solved and the impact on society . 
