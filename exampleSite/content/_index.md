@@ -1,6 +1,6 @@
 ---
-title: You don't start out writing good stuff
-description: The hallway smelt of boiled cabbage and old rag mats.
+title: We are the music makers, we are the dreamers of the dream.
+description: 
 ---
 
-The hallway smelt of boiled cabbage and old rag mats. At one end of it a coloured poster, too large for indoor display, had been tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was no use trying the lift. 
+I'm Jonathan Looney, a life long technologist and product manager of 13 years who enjoys solving creative problems through technology. These are the rants and ravings of the tools we create, and our relationship with technology. 

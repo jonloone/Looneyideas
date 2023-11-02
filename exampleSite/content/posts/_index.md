@@ -1,4 +1,4 @@
 ---
-title: "Blog"
-date: 2019-02-24
+title: "Thoughts"
+date: 1970-01-01
 ---
