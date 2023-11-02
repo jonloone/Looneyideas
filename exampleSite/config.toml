@@ -26,7 +26,7 @@ pygmentsUseClasses = true
   addDot = true
   addFrame = true
   highlightColor = '#6272a4'
-  baseColor = "#fffcf2"
+  baseColor = "#ffffff"
   baseOffsetColor = "#eaeaea"
   headingColor = "#1c1b1d"
   textColor = "#4e5157"
@@ -60,7 +60,7 @@ pygmentsUseClasses = true
     name = "About"
     identifier = "about"
     weight = 3
-    url = "/about/"
+    url = "/About/"
   [[menu.main]]
     name = "Tags"
     identifier = "tags"

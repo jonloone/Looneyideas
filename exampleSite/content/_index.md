@@ -1,5 +1,5 @@
 ---
-title: Hello, I'm Jonathan Looney
+title: Hello, I'm Jonathan 
 description: 
 ---
 
