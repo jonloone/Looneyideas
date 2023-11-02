@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Rants & Ravings on Technology"
+title = "Jonathan Looney"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -25,17 +25,17 @@ pygmentsUseClasses = true
   sortPostsByDateOldestFirst = false
   addDot = true
   addFrame = true
-  highlightColor = '#EEE1D8'
-  baseColor = "#ffffff"
+  highlightColor = '#6272a4'
+  baseColor = "#fffcf2"
   baseOffsetColor = "#eaeaea"
   headingColor = "#1c1b1d"
   textColor = "#4e5157"
-  dotColor = "#EEE1D8"
+  dotColor = "#0000ff"
   enableGoogleFonts = true 
   googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
-  fontFamilyHeading = "joly-display"
-  fontFamilyParagraph = "forma-djr-micro"
-  fontFamilyMonospace = "monospace"
+  fontFamilyHeading = "ibm-plex-mono"
+  fontFamilyParagraph = "ibm-plex-sans"
+  fontFamilyMonospace = "ibm-plex-mono"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
@@ -60,7 +60,7 @@ pygmentsUseClasses = true
     name = "About"
     identifier = "about"
     weight = 3
-    url = "/About/"
+    url = "/about/"
   [[menu.main]]
     name = "Tags"
     identifier = "tags"

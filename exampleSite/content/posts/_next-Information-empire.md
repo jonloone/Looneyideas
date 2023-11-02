@@ -1,4 +1,14 @@
-# Production
+---
+title: The Next Information Empire
+date: 2023-10-30
+description: "Redefining networked knowledge and search in the Cognitive Computing Era."
+image: images/search.jpg
+imageAltAttribute: The Next Web
+tags:
+   - search
+   - AI
+   - ChatGPT 
+---
 
 # The Next Information Empire
 
