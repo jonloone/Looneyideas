@@ -1,4 +1,0 @@
----
-title: "Recent Thoughts"
-date: 1970-01-01
----
