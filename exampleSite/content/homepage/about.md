@@ -1,7 +1,7 @@
 ---
-title: 'Jonathan Looney'
-button: 'About'
+title: 'Our Difference'
+button: 'About us'
 weight: 2
 ---
 
-Director of Nexus3 Innovation Lab @ Nexus Cognitive. I am a 13-year veteran designing and managing digital products, specializing in finance and e-commerce solutions. I am committed to weaving technology into experiences that solve universal problems, bridging gaps, and uniting individuals and communities worldwide.
+Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Ipsum dolor sit amet, et essent mediocritatem quo.

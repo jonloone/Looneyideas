@@ -17,12 +17,12 @@ title = "Paper"
 [params]
   color = 'linen'
 
-  twitter = 'looneyideas'
- 
-  
+  twitter = 'nanxiaobei'
+  github = 'nanxiaobei'
+  instagram = 'nan.xiaobei'
 
- 
-  name = 'Jonathan'
+  avatar = 'nanxiaobei@gmail.com'
+  name = 'Lee'
   bio = 'Discover fresh context'
 # ------------------------------
 
