@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jonathan Looney</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Jonathan Looney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 30 Oct 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>The Next Information Empire</title>
+      <link>http://localhost:1313/post/next-information-empire/</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/next-information-empire/</guid>
+      <description>&lt;h3 id=&#34;redefining-networked-knowledge-and-search-in-the-cognitive-computing-era&#34;&gt;Redefining networked knowledge and search in the Cognitive Computing Era.&lt;/h3&gt;
+&lt;p&gt;I recently read researcher &lt;a href=&#34;https://x.com/swardley/status/1717457831736103159?s=20&#34;&gt;Simon Wardley&amp;rsquo;s take&lt;/a&gt; on how he used ChatGPT and Perplexity.AI to reflect on and engage topics.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve found myself using these tools in a similar manner and have slowly replaced how I&amp;rsquo;ve researched and interacted with the web. Simon&amp;rsquo;s thread led me down a rabbit hole, rethinking knowledge curation, cognitive tooling, search engines, and our internet experience.&lt;/p&gt;
+&lt;h2 id=&#34;knowledge-at-your-fingertips&#34;&gt;Knowledge at Your Fingertips&lt;/h2&gt;
+&lt;p&gt;ChatGPT, while impressive, is still a primitive cognitive tool. Many end users are learning the art of prompt engineering to create the depth and value they need. These limitations are part of why it is best used as a catalyst for critical thinking, as Simon puts it:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Think of it like Myers Briggs or Astrology. Gibberish that is useful for self reflection. I find AI responses help me think about the problem. &amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;super-powered-rubber-ducks&#34;&gt;&lt;strong&gt;Super-powered Rubber Ducks&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Developers have been talking to &lt;a href=&#34;https://rubberduckdebugging.com/&#34;&gt;rubber ducks&lt;/a&gt; to solve problems and think critically for years. AI tools like ChatGPT have become super-powered rubber ducks for our research and reflection. It acts as a compass that points you towards impactful outcomes, but ultimately, it&amp;rsquo;s up to you to take action.&lt;/p&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;AI isn&amp;#39;t going to replace engineers.&lt;br&gt;&lt;br&gt;AI can turn every 1x engineer into a 10x engineer.&lt;br&gt;&lt;br&gt;If an engineer is already a 10x engineer? Buckle up.&lt;/p&gt;&amp;mdash; Austen (@Austen) &lt;a href=&#34;https://twitter.com/Austen/status/1610327832496058368?ref_src=twsrc%5Etfw&#34;&gt;January 3, 2023&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;p&gt;This is a paradigm shift from how knowledge is curated and shared on the web, cutting through the sludge of Google&amp;rsquo;s SEO content wasteland. An answer in ChatGPT aggregates hundreds of millions of pages and details around a subject and distills it into a concise answer. They have become the new search engines.&lt;/p&gt;
+&lt;h3 id=&#34;the-blockbuster-moment-for-search-engines&#34;&gt;The Blockbuster Moment for Search Engines&lt;/h3&gt;
+&lt;p&gt;Traditional search engines are at a crossroads: evolve or perish. Microsoft&amp;rsquo;s Bing, integrating Dall-E and ChatGPT, is riding the wave. Google, meanwhile, scrambles to catch up with its &lt;a href=&#34;https://www.reuters.com/technology/google-unveils-enterprise-ai-tools-new-ai-chip-2023-08-29/&#34;&gt;Bard&lt;/a&gt; and &lt;a href=&#34;https://x.com/heyrobinai/status/1719352845349101873?s=20&#34;&gt;DuetAI&lt;/a&gt;, seemingly playing a game of feature catch-up.&lt;/p&gt;
+&lt;p&gt;Startups like @PerplexityAI and @You, alongside Apple&amp;rsquo;s recent &lt;a href=&#34;https://www.theverge.com/2023/9/6/23861763/apple-ai-language-models-ajax-gpt-training-spending&#34;&gt;$1BN AI investment&lt;/a&gt;, hint at a new &lt;a href=&#34;https://www.bloomberg.com/news/newsletters/2023-10-01/could-apple-replace-google-with-own-search-engine-it-s-possible-but-unlikely-ln7gywed&#34;&gt;search&lt;/a&gt; ecosystem.&lt;/p&gt;
+&lt;h3 id=&#34;the-death-of-seo-and-the-attention-economy&#34;&gt;&lt;strong&gt;The Death of SEO and The Attention Economy&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;AI sidesteps the ad-driven, clickbait-centric model that many have blamed for ruining the quality of internet content and &lt;a href=&#34;https://www.vox.com/science-and-health/2019/5/3/18514330/distraction-collective-attention-research&#34;&gt;our minds&lt;/a&gt;. LLM&amp;rsquo;s are constructing a new information empire.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ve seen this lifecycle before. New information technologies have disrupted, grown, consolidated, and replaced previous technologies, from the phone to radio and the internet.&lt;/p&gt;
+&lt;p&gt;In his book &amp;ldquo;The Master Switch: The Rise and Fall of Inforomation Empires,&amp;rdquo; Tim Wu has categorized these lifecycles into six key categories.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Innovation:&lt;/strong&gt; A new communication technology emerges, driven by a pioneering innovator or a set of innovators.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Open Phase:&lt;/strong&gt; The new technology remains decentralized, with a period of open competition, creativity, and a wide range of applications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Closure:&lt;/strong&gt; As the industry matures, a dominant player or a set of players emerges, pushing towards consolidation and centralization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Monopoly:&lt;/strong&gt; Eventually, a monopoly (or a tight oligopoly) is established, exerting control over the industry.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Disruption:&lt;/strong&gt; At some point, a new technology or innovation disrupts the monopolist&amp;rsquo;s dominance, and the cycle begins anew.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Currently, Google and similar search engines are operating between &lt;a href=&#34;https://www.nytimes.com/2023/10/25/technology/google-antitrust-trial.html&#34;&gt;monopolization&lt;/a&gt;,  &lt;a href=&#34;https://docs.sendwithses.com/random-stuff/the-internet-is-an-seo-landfill&#34;&gt;decline&lt;/a&gt;, and disruption. This disruption has been slow; it has yet to cross the chasm to the mainstream, but we&amp;rsquo;re in an exciting time of innovation.&lt;/p&gt;
+&lt;h2 id=&#34;the-next-information-empire-what-lies-ahead&#34;&gt;The Next Information Empire: What Lies Ahead&lt;/h2&gt;
+&lt;p&gt;Past Information Cycles:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Telephone Cycle (100 years):&lt;/strong&gt; Spurred global communication.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Radio Cycle (60 years):&lt;/strong&gt; Mass distribution of news and culture.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Film Cycle (40 years):&lt;/strong&gt; Visual influence on societal norms.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Television Cycle (50 years):&lt;/strong&gt; Real-time video distribution and celebrity culture.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Internet Cycle (30+ years):&lt;/strong&gt; Global platform for interactive media and culture.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And now, the &lt;strong&gt;Cognitive Cycle.&lt;/strong&gt; Each cycle has amplified our capabilities and interconnectedness; how will this cognitive era redefine our daily tools?&lt;/p&gt;
+&lt;h3 id=&#34;surfing-the-next-web&#34;&gt;&lt;strong&gt;Surfing the next web&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;The semantic web, powered by LLM and data technologies, will radically transform how we interact with networked information. AI can synthesize psychographics and content across platforms, building a rich knowledge layer over the internet to power new products and tools for our workflows.&lt;/p&gt;
+&lt;h3 id=&#34;reimagining-interfaces-and-interactions&#34;&gt;Reimagining Interfaces and Interactions&lt;/h3&gt;
+&lt;p&gt;How do you create an interface that conforms to this new dynamic? How can AI Agents become your rubber duck, friend, research partner, and reflective mirror of your beliefs? The next couple of years will be exciting to see how drastically different the web becomes and who will be left behind.&lt;/p&gt;
+&lt;p&gt;We must address many questions regarding privacy, ethics, and accuracy before this new paradigm becomes widely adopted. As I follow this shift, I&amp;rsquo;ll tackle some of these in future posts.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ethics &amp;amp; Privacy:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;What security measures are in place to prevent data breaches or misuse of information?&lt;/p&gt;
+&lt;p&gt;Bias and Training Transparency. What steps will ensure transparent training and unbiased user results?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Accuracy:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;What mechanisms are in place to ensure the quality and integrity of the information provided?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Monetization:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;What will the shift from the attention economy look like? How will it be monetized without hurting publishers whose primary income is attention (ad) based?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Social:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;How will this change how content is created and shared with the web?&lt;/p&gt;
+&lt;p&gt;How do we ensure interconnection across the internet and not another walled garden?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The new information age will undoubtedly transform our web usage, introducing new products and dilemmas. I look forward to continue running down the paths that OpenAI has cleared and see who I&amp;rsquo;ll run into along the path to the new web.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>

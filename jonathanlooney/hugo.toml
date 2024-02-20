@@ -1,0 +1,24 @@
+baseURL = "https://www.jonathanlooney.com"
+title = "Jonathan Looney"
+theme = "etch"
+languageCode = "en-US"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  description = "A place for my thoughts"
+  copyright = ""
+  dark = "off"
+  highlight = true
+
+
+[permalinks]
+  posts = "/:title/"
+
+[markup.goldmark.renderer]
+  # Allow HTML in Markdown
+  unsafe = true
+
+  [markup.tableOfContents]
+    ordered = true
