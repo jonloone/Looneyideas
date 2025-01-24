@@ -1,6 +1,6 @@
 baseURL = "https://www.jonathanlooney.com"
 title = "Jonathan Looney"
-theme = "etch"
+theme = "Etch"
 languageCode = "en-US"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
